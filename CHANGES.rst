@@ -25,6 +25,9 @@ New features:
   recompiled bundle plone-logged-in
   requires upgrade step (reapply profile)
   [fgrcon]
+  
+- Update mockup to latest version.
+  [thet]
 
 - new metadata catalog column mime_type
   https://github.com/plone/Products.CMFPlone/issues/1995
